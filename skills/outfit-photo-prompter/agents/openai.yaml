@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书女装搭配与拍摄助手"
+  short_description: "只给一件女装，自动搭配模特、裤裙鞋包，策划小红书图片并写生图提示词"
+  default_prompt: "请用 $outfit-photo-prompter，把我提供的衣服作为主推商品，设计模特气质与整套搭配，推荐一套并写好小红书图文照片的完整生图提示词。"

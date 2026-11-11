@@ -1,0 +1,4 @@
+使用 $skill-installer，从 https://github.com/mumu0214-chou/outfit-skills 安装以下两个技能目录：
+1. skills/outfit-stylist
+2. skills/outfit-photo-prompter
+请保留各自的 references、assets、agents 和随附的许可证、来源说明。安装后检查两个技能入口 SKILL.md，并告诉我调用名称。
